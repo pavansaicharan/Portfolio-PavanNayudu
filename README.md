@@ -2,7 +2,7 @@
 # Portfolio-PavanNayudu
 My Portfolio[React,Express,vercel for deployment]
 
-# Rohit Mallade – Full-Stack Portfolio (React + Express + Node.js)
+# PAVANNAYUDU – Full-Stack Portfolio (React + Express + Node.js)
 
 A clean, human-crafted full-stack web application built with **React (JavaScript / JSX)** on the frontend and **Express.js (Node.js)** on the backend.
 

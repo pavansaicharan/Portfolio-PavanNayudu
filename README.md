@@ -1,6 +1,6 @@
 
 # Portfolio-PavanNayudu
-My Portfolio[React,Express,vercel for deployment]
+My Portfolio[FRONTEND--React (JavaScript / JSX),,BACKEND--Express.js (Node.js),,vercel for deployment]
 
 # PAVANNAYUDU – Full-Stack Portfolio (React + Express + Node.js)
 
